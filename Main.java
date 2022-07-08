@@ -14,6 +14,6 @@ public class Main{
 
 		Calculator c1=new Calculator();
 		System.out.println(c1.add(3,2));
-		System.out.println(c1.sub(3,2));
+		System.out.println(c1.sub(4,2));
 	}
 }
